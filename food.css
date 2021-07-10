@@ -11,14 +11,22 @@
     .one{
         color:orange;
     }
-    .underline{
-        
-            text-decoration: underline;
-            text-decoration-color:orange;
-          
-    }
-    section{
-
+         
+    .section{
         display: flex;
-        width:0vmin;
     }
+    .upper{
+        width: 50%;
+        padding: left 10px; 
+    }
+    .side-upper{
+         width:50%;
+    
+    }
+    .side-upper image{
+        float: right;
+        width: 50%;
+        padding-right: 40%;
+
+    }
+    
