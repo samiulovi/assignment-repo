@@ -14,19 +14,31 @@
          
     .section{
         display: flex;
+        padding: right 50%; 
     }
     .upper{
-        width: 50%;
-        padding: left 10px; 
+        max-width: 50%;
+        text-align: bottom;
+        padding-left: 10%; 
+        float:left;
     }
-    .side-upper{
-         width:50%;
-    
-    }
-    .side-upper image{
+    .sexy_girl{
+        max-width:50%;
         float: right;
-        width: 50%;
-        padding-right: 40%;
-
     }
-    
+
+    .button{
+        text-decoration: none;
+        background-image:linear-gradient(rgb(42, 153, 42),green);
+        color: orange;
+        padding:10px 30px;
+        border-radius: 50px;
+    }
+   .top-banner{
+       background-image: url(images/);
+   }
+ 
+  
+  
+  
+ 
