@@ -16,16 +16,25 @@
         display: flex;
         padding: right 50%; 
     }
+    #top{
+        padding-top:50px;
+		padding-bottom:50px;
+    }
     .upper{
         max-width: 50%;
-        text-align: bottom;
-        padding-left: 10%; 
         float:left;
+		padding-left:100px;
+		padding-top:100px;
+		
     }
     .sexy_girl{
         max-width:50%;
         float: right;
     }
+	.sexy_girl>img{
+		width: 65%;
+		text-align:center;
+	}
 
     .button{
         text-decoration: none;
